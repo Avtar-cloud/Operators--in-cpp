@@ -34,3 +34,6 @@ int main() {
 
     return 0;
 }
+//The x-coordinate is: 5
+//The y-coordinate is: 7
+//The point (5, 7) lies in Quadrant 1.
