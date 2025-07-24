@@ -15,3 +15,5 @@ int main(){
     }
     return 0;
 }
+//Enter a number: 54
+//The number is positive.
